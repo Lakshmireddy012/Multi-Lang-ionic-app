@@ -1,0 +1,19 @@
+{
+	"home" : {
+		"heading" : "Multi Language App"
+	},
+	"labels": {
+		"inbox": "Inbox",
+		"outbox": "Outbox",
+		"favorites": "Favorites",
+		"archived": "Archived",
+		"trash": "Trash",
+		"spam": "Spam",
+		"family": "Family", 
+		"friends": "Friends", 
+		"notes": "Notes", 
+		"work": "Work", 
+		"travel": "Travel", 
+		"reminders": "Reminders"
+	}
+}

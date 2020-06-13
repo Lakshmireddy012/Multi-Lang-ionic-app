@@ -1,0 +1,19 @@
+{
+	"home": {
+		"heading": "مرحبا العالم"
+	},
+	"labels": {
+		"inbox": "صندوق الوارد",
+		"outbox": "الصادر",
+		"favorites": "المفضلة",
+		"archived": "أرشفة",
+		"trash": "القمامة",
+		"spam": "المزعج",
+		"family": "الأسرة",
+		"friends": "الأصدقاء",
+		"notes": "ملاحظات",
+		"work": "العمل",
+		"travel": "السفر",
+		"reminders": "تذكير"
+	}
+}

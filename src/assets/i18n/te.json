@@ -1,0 +1,19 @@
+{
+	"home" : {
+		"heading" : "Hello world"
+	},
+	"labels": {
+		"inbox": "ఇన్బాక్స్",
+		"outbox": "అవుట్‌బాక్స్",
+		"favorites": "ఇష్టమైనవి",
+		"archived": "ఆర్కైవ్",
+		"trash": "ట్రాష్",
+		"spam": "స్పామ్",
+		"family": "కుటుంబం", 
+		"friends": "స్నేహితులు", 
+		"notes": "గమనికలు", 
+		"work": "పని", 
+		"travel": "ప్రయాణం", 
+		"reminders": "రిమైండర్‌"
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "home": {
+        "heading": "बहु भाषा एप्लिकेशन"
+    },
+    "labels": {
+        "inbox": "इनबॉक्स",
+        "outbox": "आउटबॉक्स",
+        "favorites": "पसंदीदा",
+        "archived": "संग्रहीत",
+        "trash": "कचरा",
+        "spam": "स्पैम",
+        "family": "परिवार",
+        "friends": "दोस्तों",
+        "notes": "नोट",
+        "work": "काम",
+        "travel": "यात्रा",
+        "reminders": "अनुस्मारक"
+    }
+}

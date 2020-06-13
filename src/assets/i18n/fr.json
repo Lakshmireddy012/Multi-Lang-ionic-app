@@ -1,0 +1,19 @@
+{
+    "home": {
+        "heading": "Multi-Langue De L'App"
+    },
+    "labels": {
+        "inbox": "Boîte de réception",
+        "outbox": "Boîte d'envoi",
+        "favorites": "Favoris",
+        "archived": "Archivé",
+        "trash": "Corbeille",
+        "spam": "Le Spam",
+        "family": "La famille",
+        "friends": "Amis",
+        "notes": "Notes",
+        "work": "Travail",
+        "travel": "Voyage",
+        "reminders": "Rappels"
+    }
+}
